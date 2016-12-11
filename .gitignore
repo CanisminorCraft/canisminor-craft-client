@@ -1,0 +1,15 @@
+.idea
+node_modules
+*.zip
+dist
+npm-debug.log
+
+# extra
+hmcl.json
+hmcl.log
+.minecraft/
+.minecraft/*.*
+!.minecraft/assets/
+!.minecraft/libraries/
+!.minecraft/mods/
+!.minecraft/versions/

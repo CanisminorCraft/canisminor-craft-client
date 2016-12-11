@@ -1,34 +1,128 @@
-[14:27:24] [Client thread/INFO]: Setting user: chocola
-[14:27:25] [Client thread/INFO]: LWJGL Version: 2.9.4
-[14:27:25] [Client thread/INFO]: Reloading ResourceManager: Default
-[14:27:26] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[14:27:26] [Thread-4/INFO]: Initializing LWJGL OpenAL
-[14:27:26] [Thread-4/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[14:27:26] [Thread-4/INFO]: OpenAL initialized.
-[14:27:26] [Sound Library Loader/INFO]: Sound engine started
-[14:27:29] [Client thread/INFO]: Created: 1024x512 textures-atlas
-[14:27:31] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[14:27:38] [Client thread/INFO]: Reloading ResourceManager: Default
-[14:27:38] [Client thread/INFO]: SoundSystem shutting down...
-[14:27:39] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[14:27:39] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[14:27:39] [Thread-7/INFO]: Initializing LWJGL OpenAL
-[14:27:39] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[14:27:39] [Thread-7/INFO]: OpenAL initialized.
-[14:27:39] [Sound Library Loader/INFO]: Sound engine started
-[14:27:41] [Client thread/INFO]: Created: 1024x512 textures-atlas
-[14:27:42] [Client thread/INFO]: Reloading ResourceManager: Default
-[14:27:42] [Client thread/INFO]: SoundSystem shutting down...
-[14:27:42] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[14:27:42] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[14:27:42] [Thread-9/INFO]: Initializing LWJGL OpenAL
-[14:27:42] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[14:27:43] [Thread-9/INFO]: OpenAL initialized.
-[14:27:43] [Sound Library Loader/INFO]: Sound engine started
-[14:27:45] [Client thread/INFO]: Created: 1024x512 textures-atlas
-[14:28:02] [Client thread/INFO]: Realms library version == 1.10.3
-[14:28:03] [MCO Compatability Checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[14:28:03] [MCO Compatability Checker #1/ERROR]: Couldn't connect to realms: 
-[14:28:33] [Client thread/INFO]: Stopping!
-[14:28:33] [Client thread/INFO]: SoundSystem shutting down...
-[14:28:33] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[16:01:41] [Client thread/INFO]: Setting user: test
+[16:01:45] [Client thread/WARN]: Skipping bad option: lastServer:
+[16:01:45] [Client thread/INFO]: LWJGL Version: 2.9.4
+[16:01:46] [Client thread/INFO]: [STDOUT]: ---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+Contact their authors BEFORE contacting forge
+
+// There are four lights!
+
+Time: 16-12-11 ÏÂÎç4:01
+Description: Loading screen debug info
+
+This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.11
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_91, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 78460816 bytes (74 MB) / 312475648 bytes (298 MB) up to 4294967296 bytes (4096 MB)
+	JVM Flags: 6 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xmx4096m
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.5.0 NVIDIA 372.54' Renderer: 'GeForce GTX 1070/PCIe/SSE2'
+[16:01:47] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:mercurius_updater
+[16:02:08] [Client thread/INFO]: [STDERR]: java.net.ConnectException: Connection timed out: connect
+[16:02:08] [Client thread/INFO]: [STDERR]: 	at java.net.TwoStacksPlainSocketImpl.socketConnect(Native Method)
+[16:02:08] [Client thread/INFO]: [STDERR]: 	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+[16:02:08] [Client thread/INFO]: [STDERR]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+[16:02:08] [Client thread/INFO]: [STDERR]: 	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+[16:02:08] [Client thread/INFO]: [STDERR]: 	at java.net.PlainSocketImpl.connect(Unknown Source)
+[16:02:08] [Client thread/INFO]: [STDERR]: 	at java.net.SocksSocketImpl.connect(Unknown Source)
+[16:02:08] [Client thread/INFO]: [STDERR]: 	at java.net.Socket.connect(Unknown Source)
+[16:02:08] [Client thread/INFO]: [STDERR]: 	at java.net.Socket.connect(Unknown Source)
+[16:02:08] [Client thread/INFO]: [STDERR]: 	at sun.net.NetworkClient.doConnect(Unknown Source)
+[16:02:08] [Client thread/INFO]: [STDERR]: 	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+[16:02:08] [Client thread/INFO]: [STDERR]: 	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+[16:02:08] [Client thread/INFO]: [STDERR]: 	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+[16:02:08] [Client thread/INFO]: [STDERR]: 	at sun.net.www.http.HttpClient.New(Unknown Source)
+[16:02:08] [Client thread/INFO]: [STDERR]: 	at sun.net.www.http.HttpClient.New(Unknown Source)
+[16:02:08] [Client thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+[16:02:08] [Client thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+[16:02:08] [Client thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+[16:02:08] [Client thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection$6.run(Unknown Source)
+[16:02:08] [Client thread/INFO]: [STDERR]: 	at java.security.AccessController.doPrivileged(Native Method)
+[16:02:08] [Client thread/INFO]: [STDERR]: 	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
+[16:02:08] [Client thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+[16:02:08] [Client thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+[16:02:08] [Client thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(Unknown Source)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(Unknown Source)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at java.security.AccessController.doPrivileged(Native Method)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at java.security.AccessController.doPrivilegedWithCombiner(Unknown Source)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at net.minecraftforge.mercurius.updater.Utils.downloadString(Utils.java:105)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at net.minecraftforge.mercurius.updater.Utils.getMavenText(Utils.java:268)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at net.minecraftforge.mercurius.updater.Utils.getRemoteChecksum(Utils.java:259)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at net.minecraftforge.mercurius.updater.Utils.updateMavenFile(Utils.java:489)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at net.minecraftforge.mercurius.updater.Utils.updateMercurius(Utils.java:309)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at net.minecraftforge.mercurius.updater.MercuriusUpdaterMod.preInit(MercuriusUpdaterMod.java:40)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:600)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:243)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:221)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:145)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:614)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:263)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:438)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:350)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[16:02:09] [Client thread/INFO]: [STDERR]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[16:02:30] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:02:31] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[16:02:31] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:02:31] [Thread-9/INFO]: OpenAL initialized.
+[16:02:31] [Sound Library Loader/INFO]: Sound engine started
+[16:02:34] [Client thread/INFO]: Created: 16x16 textures-atlas
+[16:02:35] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:mercurius_updater
+[16:02:36] [Client thread/INFO]: SoundSystem shutting down...
+[16:02:36] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[16:02:36] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[16:02:36] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[16:02:36] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[16:02:36] [Thread-11/INFO]: OpenAL initialized.
+[16:02:37] [Sound Library Loader/INFO]: Sound engine started
+[16:02:41] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[16:02:42] [Client thread/WARN]: Skipping bad option: lastServer:
+[16:02:46] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[16:05:15] [Client thread/INFO]: Realms library version == 1.10.3
+[16:05:16] [MCO Compatability Checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[16:05:16] [MCO Compatability Checker #1/ERROR]: Couldn't connect to realms: 
+[16:05:25] [Client thread/INFO]: Stopping!
+[16:05:25] [Client thread/INFO]: SoundSystem shutting down...
+[16:05:25] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

@@ -1,1 +1,13 @@
-{"selectedProfile": "(Default)","profiles": {"(Default)": {"name": "(Default)"}},"clientToken": "88888888-8888-8888-8888-888888888888"}
+{
+  "selectedProfile": "OptiFine",
+  "profiles": {
+    "(Default)": {
+      "name": "(Default)"
+    },
+    "OptiFine": {
+      "name": "OptiFine",
+      "lastVersionId": "1.11-OptiFine_HD_U_B1"
+    }
+  },
+  "clientToken": "88888888-8888-8888-8888-888888888888"
+}
