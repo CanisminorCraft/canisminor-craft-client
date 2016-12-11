@@ -10,6 +10,7 @@ npm-debug.log
 
 # minecraft
 /.minecraft/*
+!/.minecraft/options.txt
 !/.minecraft/servers.dat
 !/.minecraft/assets/
 !/.minecraft/libraries/

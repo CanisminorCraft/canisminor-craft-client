@@ -13,7 +13,7 @@
       "location": "C:\\Program Files\\Java\\jre1.8.0_91\\bin"
     }
   ],
-  "logintype": 1,
+  "logintype": 0,
   "downloadSourcetype": 3,
   "configurations": {
     "Default": {
@@ -24,11 +24,14 @@
   },
   "auth": {
     "yggdrasil": {
-      "IAuthenticator_UserName": ""
+      "IAuthenticator_UserName": "canisminor1990@gmail.com",
+      "username": "canisminor1990@gmail.com"
     },
     "offline": {
-      "uuidMap": {},
-      "IAuthenticator_UserName": ""
+      "uuidMap": {
+        "cm": "820eb5b696ea2a657c0db1e258dc7d81"
+      },
+      "IAuthenticator_UserName": "cm"
     }
   }
 }
