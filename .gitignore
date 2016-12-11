@@ -15,3 +15,8 @@ npm-debug.log
 !/.minecraft/libraries/
 !/.minecraft/mods/
 !/.minecraft/versions/
+!/.minecraft/resourcepacks/
+
+#resourcepacks
+/.minecraft/resourcepacks/*
+!/.minecraft/resourcepacks/CanisminorCraft
