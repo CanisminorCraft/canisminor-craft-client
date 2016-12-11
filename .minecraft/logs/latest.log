@@ -1,0 +1,34 @@
+[14:27:24] [Client thread/INFO]: Setting user: chocola
+[14:27:25] [Client thread/INFO]: LWJGL Version: 2.9.4
+[14:27:25] [Client thread/INFO]: Reloading ResourceManager: Default
+[14:27:26] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[14:27:26] [Thread-4/INFO]: Initializing LWJGL OpenAL
+[14:27:26] [Thread-4/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[14:27:26] [Thread-4/INFO]: OpenAL initialized.
+[14:27:26] [Sound Library Loader/INFO]: Sound engine started
+[14:27:29] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[14:27:31] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[14:27:38] [Client thread/INFO]: Reloading ResourceManager: Default
+[14:27:38] [Client thread/INFO]: SoundSystem shutting down...
+[14:27:39] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[14:27:39] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[14:27:39] [Thread-7/INFO]: Initializing LWJGL OpenAL
+[14:27:39] [Thread-7/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[14:27:39] [Thread-7/INFO]: OpenAL initialized.
+[14:27:39] [Sound Library Loader/INFO]: Sound engine started
+[14:27:41] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[14:27:42] [Client thread/INFO]: Reloading ResourceManager: Default
+[14:27:42] [Client thread/INFO]: SoundSystem shutting down...
+[14:27:42] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[14:27:42] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[14:27:42] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[14:27:42] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[14:27:43] [Thread-9/INFO]: OpenAL initialized.
+[14:27:43] [Sound Library Loader/INFO]: Sound engine started
+[14:27:45] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[14:28:02] [Client thread/INFO]: Realms library version == 1.10.3
+[14:28:03] [MCO Compatability Checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[14:28:03] [MCO Compatability Checker #1/ERROR]: Couldn't connect to realms: 
+[14:28:33] [Client thread/INFO]: Stopping!
+[14:28:33] [Client thread/INFO]: SoundSystem shutting down...
+[14:28:33] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
