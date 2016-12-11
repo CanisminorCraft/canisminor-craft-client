@@ -7,5 +7,13 @@
   "license": "MIT",
   "scripts": {
     "push": "git add -A ; git commit -m 'updata' ; git pull ; git push"
+  },
+  "dependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-cache": "^0.4.5",
+    "gulp-imagemin": "^3.1.1",
+    "imagemin-pngquant": "^5.0.0",
+    "require-dir": "^0.3.1"
   }
 }
