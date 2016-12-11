@@ -5,11 +5,15 @@ dist
 npm-debug.log
 
 # extra
-hmcl.json
-hmcl.log
-.minecraft/
-.minecraft/*.*
-!.minecraft/assets/
-!.minecraft/libraries/
-!.minecraft/mods/
-!.minecraft/versions/
+/hmcl.json
+/hmcl.log
+/.minecraft/
+/.minecraft/*
+!/.minecraft/assets/
+!/.minecraft/assets/*
+!/.minecraft/libraries/
+!/.minecraft/libraries/*
+!/.minecraft/mods/
+!/.minecraft/mods/*
+!/.minecraft/versions/
+!/.minecraft/versions/*
