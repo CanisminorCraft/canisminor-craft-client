@@ -5,7 +5,7 @@ dist
 npm-debug.log
 
 # extra
-/hmcl.json
+
 /hmcl.log
 
 # minecraft

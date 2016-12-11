@@ -1,0 +1,27 @@
+{
+  "last": "Default",
+  "bgpath": ".minecraft\\resourcepacks\\CanisminorCraft\\bg.png",
+  "clientToken": "8fadd6dd-e6a9-4fb8-ad82-97907900af99",
+  "enableShadow": false,
+  "decorated": false,
+  "enableAnimation": true,
+  "theme": 5,
+  "logintype": 0,
+  "downloadSourcetype": 3,
+  "configurations": {
+    "Default": {
+      "name": "Default",
+      "selectedMinecraftVersion": "1.11",
+      "gameDir": ".minecraft"
+    }
+  },
+  "auth": {
+    "yggdrasil": {
+      "IAuthenticator_UserName": ""
+    },
+    "offline": {
+      "uuidMap": {},
+      "IAuthenticator_UserName": ""
+    }
+  }
+}
