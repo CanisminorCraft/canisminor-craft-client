@@ -8,9 +8,6 @@ npm-debug.log
 /hmcl.json
 /hmcl.log
 
-# svn
-.svn/
-
 # minecraft
 /.minecraft/*
 !/.minecraft/servers.dat
