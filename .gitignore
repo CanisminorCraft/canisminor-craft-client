@@ -9,8 +9,7 @@ npm-debug.log
 /hmcl.log
 
 # svn
-.svn/pristine/
-.svn/temp/
+.svn
 
 # minecraft
 /.minecraft/*
