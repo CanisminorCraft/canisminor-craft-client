@@ -18,13 +18,14 @@
   "configurations": {
     "Default": {
       "name": "Default",
-      "selectedMinecraftVersion": "1.11",
+      "selectedMinecraftVersion": "1.11-forge1.11-13.19.0.2153",
       "gameDir": ".minecraft"
     }
   },
   "auth": {
     "yggdrasil": {
       "IAuthenticator_UserName": "canisminor1990@gmail.com",
+      "userid": "canisminor1990@gmail.com",
       "username": "canisminor1990@gmail.com"
     },
     "offline": {
