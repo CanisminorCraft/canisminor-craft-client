@@ -18,7 +18,10 @@ npm-debug.log
 !/.minecraft/versions/
 !/.minecraft/resourcepacks/
 
-#resourcepacks
+# shaser
+!/.minecraft/shaderpacks/
+
+# resourcepacks
 /.minecraft/resourcepacks/*
 !/.minecraft/resourcepacks/CanisminorCraft
 
