@@ -1,5 +1,7 @@
 #CanisminorCraft
 
+![](https://o4j4l4n7h.qnssl.com/20161213-172334-pack.png)
+
 ## 官网
 
 - [canisminor.cc](http://canisminor.cc)
