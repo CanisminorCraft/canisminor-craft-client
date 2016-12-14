@@ -20,6 +20,7 @@ npm-debug.log
 
 # shaser
 !/.minecraft/shaderpacks/
+!/.minecraft/shaderpacks/*
 
 # resourcepacks
 /.minecraft/resourcepacks/*
@@ -27,3 +28,6 @@ npm-debug.log
 
 #mods
 /.minecraft/mods/VoxelMods/voxelMap
+
+#skin
+/.minecraft/assets/skins/
