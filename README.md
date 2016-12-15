@@ -4,62 +4,72 @@
 
 ## 官网
 
-- [canisminor.cc](http://canisminor.cc)
+[canisminor.cc](http://canisminor.cc)
 
 ## SVN版
 
-### 下载地址
+#### 下载地址
 
-- svn工具:
 
 ```sh
+#svn工具
+
 https://pan.baidu.com/s/1skKHstB
 ```
 
-- [前往下载](https://pan.baidu.com/s/1skKHstB)
+[前往下载](https://pan.baidu.com/s/1skKHstB)
 
-### 安装说明
+
+#### 安装说明
 
 - 安装`svn.msi`
 - 新建文件夹,并右键`SVN Checkout`
 - URL处填写:
 
-```
+```sh
 svn+ssh://svn@svn.coding.net/canisminor1990/cmc-client/trunk
+
+
+# 等待下载结束,使用`cmc-launcher.jar`启动
+
+# PS: 环境 ≥ Java7; 推荐使用Java 8
+
 ```
 
-- 等待下载结束,使用`cmc-launcher.jar`启动
-
-- **PS:** 环境 ≥ Java7; 推荐使用Java 8
-
-### 更新说明
+#### 更新说明
 
 - 关注官网News下`Client`动态
 - 右键`SVN Update`更新客户端
 
 ## GIT版
 
-### 安装说明
+#### 安装说明
 
-- 使用`git`克隆
 
-```bash
+
+```sh
+# 使用git克隆
+
 $ git clone git://git.coding.net/canisminor1990/cmc-client.git
+
+# 等待Clone结束,使用`cmc-launcher.jar`启动
+
+# PS: 环境 ≥ Java7; 推荐使用Java 8
 ```
-- 等待Clone结束,使用`cmc-launcher.jar`启动
 
-- **PS:** 环境 ≥ Java7; 推荐使用Java 8
 
-### 更新说明
+#### 更新说明
 
-- 关注官网News下`Client`动态
-- 使用`git`更新
 
-```bash
+```sh
+# 关注官网News下Client动态
+
+# 使用git更新
+
 $ git reset --hard ; git pull
 ```
 
-### Copyright
+## Copyright
 
 - **Author:** [Canis Minor](http://canisminor.cc)
 
