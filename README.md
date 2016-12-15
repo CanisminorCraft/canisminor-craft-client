@@ -1,6 +1,6 @@
 #CanisminorCraft
 
-![](https://o4j4l4n7h.qnssl.com/20161213-172334-pack.png)
+![](https://o4j4l4n7h.qnssl.com/20161215-22116-bg.png)
 
 ## 官网
 
