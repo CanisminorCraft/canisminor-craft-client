@@ -11,8 +11,8 @@
 #### 下载地址
 
 
-```sh
-#svn工具
+```bash
+# svn工具
 
 https://pan.baidu.com/s/1skKHstB
 ```
@@ -26,7 +26,7 @@ https://pan.baidu.com/s/1skKHstB
 - 新建文件夹,并右键`SVN Checkout`
 - URL处填写:
 
-```sh
+```bash
 svn+ssh://svn@svn.coding.net/canisminor1990/cmc-client/trunk
 
 
@@ -47,7 +47,7 @@ svn+ssh://svn@svn.coding.net/canisminor1990/cmc-client/trunk
 
 
 
-```sh
+```bash
 # 使用git克隆
 
 $ git clone git://git.coding.net/canisminor1990/cmc-client.git
@@ -61,7 +61,7 @@ $ git clone git://git.coding.net/canisminor1990/cmc-client.git
 #### 更新说明
 
 
-```sh
+```bash
 # 关注官网News下Client动态
 
 # 使用git更新
