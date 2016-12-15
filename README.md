@@ -13,7 +13,6 @@
 
 ```bash
 # svn工具
-
 https://pan.baidu.com/s/1skKHstB
 ```
 
@@ -28,10 +27,7 @@ https://pan.baidu.com/s/1skKHstB
 
 ```bash
 svn+ssh://svn@svn.coding.net/canisminor1990/cmc-client/trunk
-
-
 # 等待下载结束,使用`cmc-launcher.jar`启动
-
 # PS: 环境 ≥ Java7; 推荐使用Java 8
 
 ```
@@ -49,11 +45,8 @@ svn+ssh://svn@svn.coding.net/canisminor1990/cmc-client/trunk
 
 ```bash
 # 使用git克隆
-
 $ git clone git://git.coding.net/canisminor1990/cmc-client.git
-
 # 等待Clone结束,使用`cmc-launcher.jar`启动
-
 # PS: 环境 ≥ Java7; 推荐使用Java 8
 ```
 
@@ -63,9 +56,7 @@ $ git clone git://git.coding.net/canisminor1990/cmc-client.git
 
 ```bash
 # 关注官网News下Client动态
-
 # 使用git更新
-
 $ git reset --hard ; git pull
 ```
 
