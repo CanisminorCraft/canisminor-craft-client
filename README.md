@@ -21,8 +21,8 @@ https://pan.baidu.com/s/1skKHstB
 
 #### 安装说明
 
-- 安装`svn.msi`
-- 新建文件夹,并右键`SVN Checkout`
+- 安装 *svn.msi*
+- 新建文件夹,并右键 *SVN Checkout*
 - URL处填写:
 
 ```bash
@@ -34,8 +34,8 @@ svn+ssh://svn@svn.coding.net/canisminor1990/cmc-client/trunk
 
 #### 更新说明
 
-- 关注官网News下`Client`动态
-- 右键`SVN Update`更新客户端
+- 关注官网News下 *Client* 动态
+- 右键 *SVN Update* 更新客户端
 
 ## GIT版
 
