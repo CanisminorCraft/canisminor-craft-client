@@ -6,7 +6,11 @@
 
 [canisminor.cc](http://canisminor.cc)
 
+<br>
+
 ## SVN版
+
+<br>
 
 #### 下载地址
 
@@ -18,6 +22,8 @@ https://pan.baidu.com/s/1skKHstB
 
 [前往下载](https://pan.baidu.com/s/1skKHstB)
 
+
+<br>
 
 #### 安装说明
 
@@ -32,15 +38,21 @@ svn+ssh://svn@svn.coding.net/canisminor1990/cmc-client/trunk
 
 ```
 
+<br>
+
 #### 更新说明
 
 - 关注官网News下 *Client* 动态
 - 右键 *SVN Update* 更新客户端
 
+
+<br>
+
 ## GIT版
 
-#### 安装说明
+<br>
 
+#### 安装说明
 
 
 ```bash
@@ -49,6 +61,8 @@ $ git clone git://git.coding.net/canisminor1990/cmc-client.git
 # 等待Clone结束,使用`cmc-launcher.jar`启动
 # PS: 环境 ≥ Java7; 推荐使用Java 8
 ```
+
+<br>
 
 
 #### 更新说明
@@ -59,6 +73,8 @@ $ git clone git://git.coding.net/canisminor1990/cmc-client.git
 # 使用git更新
 $ git reset --hard ; git pull
 ```
+
+<br>
 
 ## Copyright
 
