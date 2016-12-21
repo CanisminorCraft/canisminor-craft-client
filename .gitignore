@@ -25,6 +25,7 @@ npm-debug.log
 # resourcepacks
 /.minecraft/resourcepacks/*
 !/.minecraft/resourcepacks/CanisminorCraft
+!/.minecraft/resourcepacks/CanisminorCraftPlus
 
 #mods
 /.minecraft/mods/VoxelMods/voxelMap
