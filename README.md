@@ -76,7 +76,7 @@ $ git reset --hard ; git pull
 
 <br>
 
-## Shader光影
+## 光影
 
 启动器中含有两个版本 `1.11` 与 `1.11-forge`
 
