@@ -11,7 +11,7 @@
   "configurations": {
     "Default": {
       "name": "Default",
-      "selectedMinecraftVersion": "1.11",
+      "selectedMinecraftVersion": "1.11-forge",
       "gameDir": ".minecraft"
     }
   },
