@@ -9,7 +9,7 @@
 
 ## JAVA
 
-<https://www.java.com/en/download/manual.jsp>
+- **Java 1.8:** <https://www.java.com/en/download/manual.jsp>
 
 ## Copyright
 
